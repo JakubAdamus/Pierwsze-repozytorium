@@ -8,4 +8,7 @@ Zmiana08
 Zmiana09
 zmiana w pliku
 Zmiana10a
+Zmiana10b
+Zmiana12
+Zmiana10
 
