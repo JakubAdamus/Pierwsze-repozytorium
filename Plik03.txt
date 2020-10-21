@@ -11,4 +11,5 @@ Zmiana10a
 Zmiana10b
 Zmiana12
 Zmiana10
+jednazmiana
 
